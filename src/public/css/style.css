@@ -73,3 +73,7 @@ td {
 tr:hover {
   background-color: #ccc;
 }
+
+.user-id {
+  display: none;
+}
