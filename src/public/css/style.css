@@ -77,3 +77,8 @@ tr:hover {
 .user-id {
   display: none;
 }
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
